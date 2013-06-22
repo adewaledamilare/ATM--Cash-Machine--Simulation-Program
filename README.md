@@ -3,9 +3,9 @@ ATM--Cash-Machine--Simulation-Program
 
 Simulation of an Automated Teller Machine (ATM) with 500pounds minimum balance
 
-This is a simulation of a Cash Machine used to carry out day to day banking transactions.
+This program is written in C++.
 
-This is a simulation of a Cash Machine used to carry out day to day banking transactions.
+It is a simulation of a Cash Machine used to carry out day to day banking transactions.
 
 To use it, just instantiate an object of the Class 'Account' and call on the member functions
 
