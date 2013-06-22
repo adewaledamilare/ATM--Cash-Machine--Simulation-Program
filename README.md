@@ -17,8 +17,22 @@ just set the value of the number from ASCII - 156 to whichever currency is neede
 
 The following public member functions can be called:
 
-Account(double); //Constructor void setInitialBalance(double); //Minimum Account Balance double getBalance(); //Supply current Balance void debitAmt(double); //Withdraw from Account void creditAmt(double); //Deposit into Account void setCustomerName(string); //Get and store the customer's name string getCustomerName(); //Retrieve the customer's name void greetings(); //Greet the customer void setResponse(char replied); //Get Answers from User char getResponse(); //Retrieve answers to execute void setAction(char chosen); //Set the transactions that the user wants to perform char getAction(); //Retrieve the supplied Transactions
-void execute(double creditAmount, double debitAmount); //Set the
+  Account(double);                //Constructor
+
+  void setInitialBalance(double); //Minimum Account Balance
+  
+	double getBalance();            //Supply current Balance
+  
+	void debitAmt(double);          //Withdraw from Account
+  
+	void creditAmt(double);         //Deposit into Account
+  
+	void setCustomerName(string);  //Get and store the customer's name
+  
+	string getCustomerName();      //Retrieve the customer's name
+  
+	void greetings();              //Greet the customer
+  
 
 Feel free to correct and edit as needed.
 
