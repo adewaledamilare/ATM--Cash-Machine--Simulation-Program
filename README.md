@@ -7,7 +7,7 @@ This program is written in C++.
 
 It is a simulation of a Cash Machine used to carry out day to day banking transactions.
 
-To use it, just instantiate an object of the Class 'Account' and call on the member functions
+To use it, just instantiate an object from the Class 'Account' and call on the member functions
 
 to carry out the desired operation. A sample execution is provided in the file Main.
 
